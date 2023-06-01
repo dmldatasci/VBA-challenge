@@ -10,10 +10,12 @@ Data for multiple years is included in the data set, separated into different ta
   - The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
   - The total stock volume of the stock.
 
-![Basic Functionality](images/basic_functionality.png)
-
 - Add functionality to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
 
-![Added Functionality](images/added_functionality.png)
+This VBA script effectively runs on every worksheet (that is, every year) at once. Results are as follows:
 
-This VBA script will effectively run on every worksheet (that is, every year) at once.
+![2018 Results](images/2018_results.png)
+
+![2019 Results](images/2019_results.png)
+
+![2020 Results](images/2020_results.png)
