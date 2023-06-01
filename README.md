@@ -1,4 +1,4 @@
-# VBA-challenge
+# stock-analysis-vba
 This project employs a VBA script that loops through daily stock data to calculate yearly change, percent change, and total trading volume for all stocks included in a data set. It also extracts maximum and minimum percent change and maximum total trading volume for at-a-glance analysis of performance over a one-year period.
 
 Data for multiple years is included in the data set, separated into different tabs. The script performs the stated calculations and extractions on all tabs.
